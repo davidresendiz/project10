@@ -29,7 +29,17 @@ left: 0px;
 right: 0px;
 white-space: nowrap;
 padding: 4px;
-word-spacing: 10px;
+word-spacing: 8px;
+}
+
+div {
+background-color: #db4437;
+height: 40px;
+border-right: 5px solid black;
+border-collapse: collapse;
+white-space: nowrap;
+padding: 4px;
+word-spacing: 8px;
 }
 
 a {
