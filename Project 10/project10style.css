@@ -32,21 +32,6 @@ padding: 4px;
 word-spacing: 8px;
 }
 
-table {
-background-color: #db4437;
-height: 40px;
-border-right: 5px solid black;
-border-collapse: collapse;
-white-space: nowrap;
-padding: 4px;
-word-spacing: 8px;
-}
-
-.heading {
- font-size: 1.5em;
-font-weight: bolder;
-}
-
 a {
 text-decoration: none !important;
 }
